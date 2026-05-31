@@ -1,0 +1,36 @@
+name: ecosystems_atbd
+channels:
+  - conda-forge
+dependencies:
+  - hvplot
+  - fiona
+  - scikit-learn
+  - shapely
+  - cartopy
+  - georaster
+  - geopandas
+  - gdal
+  - jupyter
+  - rasterio
+  - numpy
+  - xarray
+  - georasters
+  - fsspec
+  - h5py
+  - matplotlib
+  - contextily
+  - pandas
+  - wget
+  - pywget
+  - boto3
+  - s3fs
+  - earthaccess
+  - asf_search
+  - plotly
+  - pip
+  - rioxarray
+  - ipykernel
+  - plant
+  - ca-certificates
+  - certifi
+  - openssl
